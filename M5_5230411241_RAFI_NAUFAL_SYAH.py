@@ -20,7 +20,7 @@ class PopMusic(Music):
 
 class PunkMusic(Music):
     def __init__(self, judul, artist):
-        super().__init__(judul, artist, genre='Jazz')
+        super().__init__(judul, artist, genre='Punk')
 
 
 class ListMusic:
